@@ -1,6 +1,7 @@
 Did You Feel It? App
 ====================
 
+This is a dummy app to practise threads and parallelism in preparation for the QuakeReport App
 This app displays the perceived strength of a single earthquake
 event based on the DYFI indicator.
 Used in a Udacity course in the Android Basics Nanodegree.
